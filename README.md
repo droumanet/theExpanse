@@ -15,3 +15,14 @@ Un petit groupe découvre que la Terre et Mars sont sur le point de se déclarer
 # jeu
 Dans le jeu, les héros qui naviguent sur le Rocinante (lire rossinanté) devront trouver la protoméolécule avant les autres (terriens, ceinturiens ou martiens).
 
+|attribut|valeurs|description|
+|---|---|---|
+|PointFinal|True/False|détermine si la rencontre de cet objet termine le jeu|
+|NbreHeure|-2 à +2|indique le temps gagné ou perdu|
+|description|texte|descriptif pour l'utilisateur|
+|descOrdinateur|texte|indication logué dans l'ordinateur|
+|CoordX|< taille tableau|abcisse de l'événement|
+|CoordY|< taille tableau|ordonnée de l'événement|
+||||
+
+
