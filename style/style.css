@@ -1,8 +1,7 @@
 /* Fond d'accueil */
 body {
     color:black;
-    background-color:white;
-    background-image:url(../images/theExpanse_Main.jpg);
+    background: #22292b url(../images/theExpanse_Main.jpg) no-repeat top center;
   }
 
 /* Gestion des blocs de classe "cadre" */
