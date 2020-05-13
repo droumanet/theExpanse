@@ -1,3 +1,10 @@
+/* Fond d'accueil */
+body {
+    color:black;
+    background-color:white;
+    background-image:url(../images/theExpanse_Main.jpg);
+  }
+
 /* Gestion des blocs de classe "cadre" */
 .cadre {
 	display: inline-block;
