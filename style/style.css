@@ -1,0 +1,44 @@
+/* Gestion des blocs de classe "cadre" */
+.cadre {
+	display: inline-block;
+	width: 450px;
+	/*margin: 1em;*/
+	font-size: 18px;
+}
+
+/* format tableau */
+#fondtable {
+	background: url(../images/board_background.jpg);
+	background-size: cover;
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+	border-collapse: collapse;
+}
+
+/* Largeur et hauteur des cases de la grille */
+td {
+	width:80px;
+	height:40px;
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+}
+
+/* Couleurs des cases, avec opacité de 0.9 */
+.bad {
+	background:rgba(200,0,0,0.6);
+}
+.good {
+	background:cyan;
+}
+.column {
+	background:rgba(101, 0, 168, 0.9);
+}
+.raw {
+	background:rgba(255, 81, 0, 0.9);
+}
+#compte {
+	font-size: 28px;
+}
+
