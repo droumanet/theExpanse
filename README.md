@@ -42,3 +42,12 @@ Voici une citation :
 > mark Twain
 
 fin de citation
+
+`git command test` permet de changer l'écriture
+```JavaScript
+console.log("Hello");
+if (something) {
+    console.log("toto");
+}
+```
+texte normal
