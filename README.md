@@ -1,10 +1,10 @@
 # Objectifs
 Ce projet vise les objectifs suivants :
-* montrer le fonctionnement de GIT avec Visual Studio Code
-* expliquer l'usage du langage [Markdown](https://www.markdownguide.org/)
-* donner un exemple de classe en JavaScript
-* rappeler le fonctionnement des boucles
-* introduire le fonctionnement des listes
+- montrer le fonctionnement de GIT avec Visual Studio Code
+- expliquer l'usage du langage [Markdown](https://www.markdownguide.org/)
+- donner un exemple de classe en JavaScript
+- rappeler le fonctionnement des boucles
+- introduire le fonctionnement des listes
 
 # Introduction
 Le jeu est une chasse au trésor. Dans mon cas, j'ai choisi de créer un jeu lié à la série 'The Expanse'.
@@ -34,3 +34,11 @@ Voici l'objet du texte.
 Ici on trouve l'introduction **en gras** ou en *italique*.
 Pointe sur [Google](https://www.google.fr)
 
+Voici [HP](https://www.hp.com)
+
+Voici une citation :
+> ils ne savaient pas que c'était impossible
+> alors ils l'ont fait.
+> mark Twain
+
+fin de citation
